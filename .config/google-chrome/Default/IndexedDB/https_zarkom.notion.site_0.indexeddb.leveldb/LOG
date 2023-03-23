@@ -1,0 +1,11 @@
+2023/03/23-12:14:04.653 acc Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_zarkom.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/23-12:14:04.654 acc Recovering log #3
+2023/03/23-12:14:04.654 acc Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_zarkom.notion.site_0.indexeddb.leveldb/000003.log 
+2023/03/23-12:14:05.844 acc Level-0 table #5: started
+2023/03/23-12:14:05.845 acc Level-0 table #5: 2956 bytes OK
+2023/03/23-12:14:05.847 acc Delete type=0 #3
+2023/03/23-12:14:05.847 acc Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/23-12:39:28.811 ace Level-0 table #7: started
+2023/03/23-12:39:28.814 ace Level-0 table #7: 540 bytes OK
+2023/03/23-12:39:28.816 ace Delete type=0 #4
+2023/03/23-12:39:28.816 acc Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

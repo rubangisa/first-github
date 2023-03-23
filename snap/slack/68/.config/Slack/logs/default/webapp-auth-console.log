@@ -1,0 +1,66 @@
+[03/22/23, 23:43:53:385] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux (Store) 5.15.0-60-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[03/22/23, 23:43:53:386] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/22/23, 23:43:53:386] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Europe/Berlin",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/22/23, 23:47:23:455] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux (Store) 5.15.0-60-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[03/22/23, 23:47:23:455] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/22/23, 23:47:23:455] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Europe/Berlin",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/23/23, 12:20:43:936] info: 
+╔══════════════════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux (Store) 5.15.0-60-generic on x64      ║
+╚══════════════════════════════════════════════════════════════════╝ 
+[03/23/23, 12:20:43:936] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-auth-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/23/23, 12:20:43:937] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Europe/Berlin",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}

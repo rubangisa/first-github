@@ -1,0 +1,7 @@
+2023/03/23-13:13:18.852 acc Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/23-13:13:18.852 acc Recovering log #6
+2023/03/23-13:13:18.852 acc Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000006.log 
+2023/03/23-13:13:32.593 ace Level-0 table #11: started
+2023/03/23-13:13:32.595 ace Level-0 table #11: 536 bytes OK
+2023/03/23-13:13:32.598 ace Delete type=0 #6
+2023/03/23-13:13:32.598 ace Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

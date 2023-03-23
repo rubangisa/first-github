@@ -1,0 +1,79 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "20U3000QGE",
+    "Family": "ThinkPad L15 Gen 1"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "R17ET32W (1.15 )"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "8",
+    "Threads": "2",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "142",
+    "Stepping": "12",
+    "Name": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9b41"
+    }
+  ],
+  "RAM": 16,
+  "Disks": [
+    7.8
+  ],
+  "Partitions": [
+    490.6,
+    0.5,
+    7.6
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.01"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "de_DE",
+  "Timezone": "Europe/Berlin",
+  "Install": {
+    "Media": "Ubuntu 20.04.4 LTS \"Focal Fossa\" - Release amd64 (20220223)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "de",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "7": "console_setup",
+      "16": "wireless",
+      "24": "prepare",
+      "57": "partman",
+      "65": "start_install",
+      "72": "timezone",
+      "79": "usersetup",
+      "105": "user_done",
+      "364": "done"
+    }
+  }
+}

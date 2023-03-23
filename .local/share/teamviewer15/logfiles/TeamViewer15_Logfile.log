@@ -1,0 +1,87 @@
+2023/03/23 09:08:58.507 10174 140037998717824 GX0   Logger started.
+2023/03/23 09:08:58.508 10174 140037998717824 GX0   Found 0 stack dump files ...
+2023/03/23 09:08:58.508 10174 140037998717824 GX0   Found 0 core dump files ...
+2023/03/23 09:08:58.509 10174 140037998717824 GX0   systemd: logind service available
+2023/03/23 09:08:58.510 10174 140037998717824 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=1, canTTY=1, canMultiSession=1]
+2023/03/23 09:08:58.511 10174 140037998717824 GX0   LogindSessionInfo: New session LogindSessionInfo [id=2 user=dci-student state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY=tty2 seat=seat0 display= vtnr=2 owner=[SysUser: dci-student [uid=1000, gid=1000 home=/home/dci-student gecos=dci-student,,, shell=/bin/bash]] idle=0(1679556286333387) active=1 type=x11 class=user state=active timestamp=1679553455891152 service=gdm-password defaultCG= leader=1469 audit=2 remote=0 rHost= rUser= killProc=0]
+2023/03/23 09:08:58.513 10174 140037998717824 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/03/23 09:08:58.516 10174 140037998717824 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/03/23 09:08:58.516 10174 140037998717824 GX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2023/03/23 09:08:58.516 10174 140037998717824 GX0   SysSessionInfoManager::SessionAdded: adding session XSession: 0 [SysSession 450215437 [type=88 vt=2 tty=tty2 pseudotty=0 info=1 id=2 user=dci-student state=user active=1 reliable=1]]
+2023/03/23 09:08:58.520 10174 140037998717824 GX0   SysSessionInfoManager::GetOwnProcessSession: own session cache set to '450215437'
+2023/03/23 09:08:58.520 10174 140037998717824 GX0   Running on Qt 5.15.2
+2023/03/23 09:08:58.621 10174 140037998717824 GX0   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/03/23 09:08:58.949 10174 140037998717824 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2023/03/23 09:08:58.949 10174 140037998717824 GX0   MonitorInfo: [XRandR 1.2] CRTC HDMI-1 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2023/03/23 09:08:58.950 10174 140037998717824 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/03/23 09:08:58.950 10174 140037998717824 GX0   Virtual Desktop [0, 0, 3840, 1080]
+2023/03/23 09:08:59.272 10174 140037998717824 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2023/03/23 09:08:59.272 10174 140037998717824 GX0   MonitorInfo: [XRandR 1.2] CRTC HDMI-1 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2023/03/23 09:08:59.272 10174 140037998717824 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/03/23 09:08:59.272 10174 140037998717824 GX0   Virtual Desktop [0, 0, 3840, 1080]
+2023/03/23 09:08:59.292 10174 140037998717824 GX0   Loaded language 'en', using locale 'en'
+2023/03/23 09:08:59.292 10174 140037998717824 GX0   InterProcessBase::SecureNetwork created
+2023/03/23 09:08:59.295 10174 140037998717824 GX0   AutoLogin::Login: enabled: 1
+2023/03/23 09:08:59.295 10174 140037998717824 GX0   AccountLoginStateMachine::Reset
+2023/03/23 09:08:59.298 10174 140037998717824 GX0   VoIP: Constructor
+2023/03/23 09:08:59.300 10174 140037100701440 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2023/03/23 09:08:59.300 10174 140037100701440 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2023/03/23 09:08:59.300 10174 140037987526400 GX0   Local TCP connection established
+2023/03/23 09:08:59.393 10174 140037970740992 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2023/03/23 09:08:59.393 10174 140037970740992 GX0   IpcRemoteSettingsHandler::HandleCommand UserSettings process sends sync settings response to network.
+2023/03/23 09:08:59.393 10174 140037937170176 GX0   Received Control_InitIPC_Response processtype=1
+2023/03/23 09:08:59.393 10174 140037937170176 GX0   Received Control_InitIPC_Response runningProcesses=3
+2023/03/23 09:08:59.393 10174 140037937170176 GX0   IPCConnection: all processes 3 completely initialized
+2023/03/23 09:08:59.393 10174 140037100701440 GX0   InterProcessBase::ConnectToOtherProcess: Process connected to service.
+2023/03/23 09:08:59.413 10174 140037998717824 GX0   
+Start:              2023/03/23 09:08:59.393 (UTC+1:00)
+Version:            15.38.3 
+Version short hash: 91fec881646
+ID:                 0
+Loglevel:           Info
+License:            0
+IC:                 1354081751
+CPU:                Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+CPU extensions:     l9
+OS:                 Lx Ubuntu 20.04.5 LT (64-bit)
+IP:                 192.168.2.76
+Proxy-Settings:     Type=0 IP= User=
+AppPath:            /opt/teamviewer/
+
+2023/03/23 09:09:01.588 10174 140037937170176 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: cea40cba-dcaf-40de-914e-11883c88dce8)
+2023/03/23 09:09:01.589 10174 140037937170176 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 4ff0a210-3f0e-404c-9be2-521e68532665)
+2023/03/23 09:09:01.589 10174 140037937170176 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: a78721fb-7e46-44a4-a7cf-d347817844fc)
+2023/03/23 09:09:01.589 10174 140037937170176 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 41112596-093d-46c5-8bc6-17dc6d6fe721)
+2023/03/23 09:09:01.589 10174 140037937170176 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 2df9c3c9-4bf5-4279-85c3-71fbae68fda4)
+2023/03/23 09:09:01.589 10174 140037953955584 GX0   Account::UpdateState: KA = 1, active = 1
+2023/03/23 09:09:01.589 10174 140037937170176 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 0c1a8cc8-9602-431f-85cf-ca6ca36aac13)
+2023/03/23 09:09:01.589 10174 140037998717824 GX0   Account::SetLoginState: new state: 2
+2023/03/23 09:09:04.959 10174 140037998717824 GX0   Chat::Stop: Stopping chat
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::SetReadyToProcessCommands(0)
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   VoIP: Destructor
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 0c1a8cc8-9602-431f-85cf-ca6ca36aac13)
+2023/03/23 09:09:04.960 10174 140037987526400 GX0   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 2df9c3c9-4bf5-4279-85c3-71fbae68fda4)
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 41112596-093d-46c5-8bc6-17dc6d6fe721)
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 4ff0a210-3f0e-404c-9be2-521e68532665)
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: a78721fb-7e46-44a4-a7cf-d347817844fc)
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   InterProcessBase::ShutDown: Shutdown IPC
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2023/03/23 09:09:04.960 10174 140037998717824 GX0   CMessageLayer::DisplayBCommandMessage: canceled
+2023/03/23 09:09:05.005 10174 140037945562880 GX0   TcpProcessConnector::HandleRead(): Socket gracefully closed (PID=1441)
+2023/03/23 09:09:05.005 10174 140037945562880 GX0   TcpProcessConnector::CloseConnection(): PID=1441
+2023/03/23 09:09:05.005 10174 140037945562880 GX0   InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+2023/03/23 09:09:05.005 10174 140037945562880 GX0   TcpProcessConnector::CloseConnection(): PID=1441
+2023/03/23 09:09:05.005 10174 140037945562880 GX0   TcpProcessConnector::CloseConnection(): Shutdown socket returned error 107: Transport endpoint is not connected
+2023/03/23 09:09:05.016 10174 140037998717824 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: cea40cba-dcaf-40de-914e-11883c88dce8)
+2023/03/23 09:09:05.016 10174 140037998717824 GX0   interprocessbase::SecureNetwork destroyed
+2023/03/23 09:09:05.016 10174 140037998717824 GX0   Shutting down DBus IOHandler

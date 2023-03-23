@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="slack_slack.desktop" score="71" last-seen="1679570448"/>
+    <application id="google-chrome.desktop" score="651" last-seen="1679572122"/>
+    <application id="org.gnome.Terminal.desktop" score="86" last-seen="1679572129"/>
+    <application id="code.desktop" score="740" last-seen="1679572956"/>
+    <application id="zoom-client_zoom-client.desktop" score="836" last-seen="1679572964"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1679524413"/>
+  </context>
+</application-state>

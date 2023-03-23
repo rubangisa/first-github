@@ -1,0 +1,13 @@
+2023-03-22 11:04:21.347 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-22 11:04:24.028 [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {"name":"Offline"}
+2023-03-22 11:04:24.054 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Offline"}
+2023-03-22 11:04:24.183 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Offline"}
+2023-03-22 11:04:24.186 [error] Offline: Offline: Offline
+    at R (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1155)
+    at y.request (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:642:61396)
+    at X.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:743:48383)
+    at async X.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:743:45877)
+    at async re (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:743:44877)
+    at async X.query (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:743:45097)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1936:26417
+2023-03-22 11:04:24.815 [info] [perf] Render performance baseline is 51ms

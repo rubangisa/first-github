@@ -1,0 +1,21 @@
+2023-03-22 11:04:20.336 [error] [uncaught exception in main]: Error: Unable to retrieve mac address (unexpected format)
+2023-03-22 11:04:20.337 [error] Error: Unable to retrieve mac address (unexpected format)
+    at C (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:16:75078)
+    at d (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:21:36877)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/share/code/resources/app/out/vs/code/electron-main/main.js:21:36735
+2023-03-22 11:04:20.337 [info] update#setState idle
+2023-03-22 11:04:21.592 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-22 11:04:21.599 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3018]: successfully created
+2023-03-22 11:04:22.061 [error] update#isLatestVersion(): failed to check for updates
+2023-03-22 11:04:22.062 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-22 11:04:50.307 [info] update#setState checking for updates
+2023-03-22 11:04:50.316 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-22 11:04:50.317 [info] update#setState idle
+2023-03-22 11:05:12.575 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3018]: waiting to exit...
+2023-03-22 11:05:12.590 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3018]: received exit event with code 0
+2023-03-22 11:05:12.590 [info] Extension host with pid 3018 exited with code: 0, signal: unknown.

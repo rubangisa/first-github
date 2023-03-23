@@ -1,0 +1,12 @@
+2023-03-23 12:49:01.838 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2023-03-23 12:49:01.839 [info] Persistent process reconnection "1"
+2023-03-23 12:49:01.839 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+2023-03-23 12:49:01.839 [info] Persistent process reconnection "2"
+2023-03-23 12:49:01.972 [info] Persistent process "1": Replaying 7402 chars and 1 size events
+2023-03-23 12:49:01.974 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2023-03-23 12:49:01.975 [info] Persistent process reconnection "3"
+2023-03-23 12:49:01.980 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2023-03-23 12:49:01.981 [info] Persistent process reconnection "4"
+2023-03-23 12:49:02.119 [info] Persistent process "2": Replaying 501 chars and 1 size events
+2023-03-23 12:49:02.329 [info] Persistent process "3": Replaying 5336 chars and 1 size events
+2023-03-23 12:49:02.523 [info] Persistent process "4": Replaying 5073 chars and 1 size events

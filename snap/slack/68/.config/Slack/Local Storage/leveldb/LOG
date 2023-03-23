@@ -1,0 +1,6 @@
+2023/03/23-08:27:39.820 c64 Reusing MANIFEST /home/dci-student/snap/slack/68/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2023/03/23-08:27:39.829 c64 Recovering log #3
+2023/03/23-08:27:39.829 c64 Reusing old log /home/dci-student/snap/slack/68/.config/Slack/Local Storage/leveldb/000003.log 
+2023/03/23-09:53:41.351 3076 Level-0 table #5: started
+2023/03/23-09:53:41.358 3076 Level-0 table #5: 15302 bytes OK
+2023/03/23-09:53:41.362 3076 Delete type=0 #3
